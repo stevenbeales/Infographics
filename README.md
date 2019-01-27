@@ -1,2 +1,2 @@
 # Infographics
-Collected infographics and mindmaps
+Collected infographics
